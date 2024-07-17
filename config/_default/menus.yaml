@@ -3,12 +3,9 @@
 ############################
 
 main:
-- name: Home
-  url: /
-  weight: 10
-- name: Blog
+- name: Blogi
   url: /blog/
-  weight: 20
-- name: About
+  weight: 10
+- name: Minust
   url: /about/
   weight: 30

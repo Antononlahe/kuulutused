@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://chrede88.github.io/qubt'
-title: 'Qubt Theme'
+baseURL: 'http://anton.xyz'
+title: 'K K  K K'
 
 ############################
 ## MISC
@@ -11,6 +11,6 @@ title: 'Qubt Theme'
 
 enableEmoji: true
 disableKinds: ['taxonomy', 'term']
-languageCode: 'en-us'
+languageCode: 'et-ee'
 
 

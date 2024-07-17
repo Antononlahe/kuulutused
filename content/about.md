@@ -4,7 +4,7 @@ type: misc
 
 # change these
 jobTitle: Blogger
-name: John Doe
+name: Anton
 bio: true
 icon: ":coffee:"
 ---
